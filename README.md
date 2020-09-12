@@ -14,3 +14,6 @@ Details like Total Deaths, Recovered, Cases, New cases etc from multiple authori
 
 # Searching Country
 <img src="https://user-images.githubusercontent.com/57246923/92992449-a54c3580-f508-11ea-8eb7-1380e1b6994b.png" height="450" width="300">
+
+# Details of Country
+<img src="https://user-images.githubusercontent.com/57246923/92992482-e3e1f000-f508-11ea-8210-228fd8afaf2f.png" height="450" width="300">
